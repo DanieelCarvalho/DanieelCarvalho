@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel Carvalho 👋
 
- - 🌱 I’m currently learning TypeScript, PrismaORM, OOP and tests.
+ - 🌱 I’m currently learning React
  - 💬 Ask me about my projects
  - 😄 Pronouns: He/him
  - ⚡ Fun fact: I am graduated in History
