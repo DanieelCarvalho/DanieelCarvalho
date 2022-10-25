@@ -9,7 +9,10 @@
 ### Talk with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danieelcarvalho/)](https://www.linkedin.com/in/danieelcarvalho/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lfaires@gmail.com)](mailto:danielscg2012@gmail.com)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielscg2012@gmail.com)](mailto:danielscg2012@gmail.com)
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/danielcgy/)](https://www.instagram.com/danielcgy/)
 
 
 ### Languages and Tools:
