@@ -8,7 +8,7 @@
 
 ### Talk with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/danieelcarvalho/](https://www.linkedin.com/in/daniel-carvalho-desenvolvedor/)](https://www.linkedin.com/in/daniel-carvalho-desenvolvedor/))]([https://www.linkedin.com/in/danieelcarvalho/](https://www.linkedin.com/in/daniel-carvalho-desenvolvedor/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/daniel-carvalho-desenvolvedor/](https://www.linkedin.com/in/daniel-carvalho-desenvolvedor/)](https://www.linkedin.com/in/daniel-carvalho-desenvolvedor/))]([https://www.linkedin.com/in/danieelcarvalho/](https://www.linkedin.com/in/daniel-carvalho-desenvolvedor/))
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielscg2012@gmail.com)](mailto:danielscg2012@gmail.com)
 
