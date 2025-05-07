@@ -1,12 +1,18 @@
-### Hi there, I'm Daniel Carvalho 👋
+### Olá, eu sou Daniel Carvalho 👋 👋
 
- - 🌱 I’m currently learning .NET
- - 💬 Ask me about my projects
- - 😄 Pronouns: He/him
- - ⚡ Fun fact: I am graduated in History
- - 📍 I'm from Rio de Janeiro, RJ - Brazil 
+- 🌱 Atualmente estou aprendendo Java
 
-### Talk with me:
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas (2° período)
+
+- 💬 Pergunte-me sobre meus projetos
+
+- 😄 Pronomes: Ele/dele
+
+- ⚡ Curiosidade: Sou formado em História
+
+- 📍 Sou de Nova Iguaçu, RJ - Brasil
+
+### Fale comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-carvalho-dev/)
 
